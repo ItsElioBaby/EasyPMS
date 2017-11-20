@@ -1,0 +1,66 @@
+31/51/2017 - 08:51:41 -> [D]: Log writting started.
+
+31/51/2017 - 08:51:41 -> [D]: Key-Validate: Key seems to be fine.
+
+31/51/2017 - 08:51:41 -> [D]: Reading account file D:\EasyPMS\EasyPMS\bin\Debug\1773810437.epms
+
+31/51/2017 - 08:51:42 -> [I]: Connected to data source D:\EasyPMS\EasyPMS\bin\Debug\Test\Netflix_shop.sdf
+
+31/51/2017 - 08:51:42 -> [I]: Connected to data source D:\EasyPMS\EasyPMS\bin\Debug\Test\Netflix_shop.sdf
+
+31/51/2017 - 08:51:42 -> [I]: Loaded name: Netflix
+
+31/51/2017 - 08:51:42 -> [I]: Loaded type: Seller
+
+31/51/2017 - 08:51:42 -> [I]: Connected to data source D:\EasyPMS\EasyPMS\bin\Debug\Test\Netflix_shop.sdf
+
+31/51/2017 - 08:51:42 -> [I]: History has been loaded.
+
+31/51/2017 - 08:51:42 -> [I]: Connected to data source D:\EasyPMS\EasyPMS\bin\Debug\Test\Netflix_shop.sdf
+
+31/51/2017 - 08:51:42 -> [I]: Loading seller product Netflix
+
+31/51/2017 - 08:51:42 -> [I]: Loading seller product Spotify
+
+31/51/2017 - 08:51:42 -> [I]: Connected to data source D:\EasyPMS\EasyPMS\bin\Debug\Test\Netflix_shop.sdf
+
+31/51/2017 - 08:51:42 -> [I]: Loaded seller shop Netflix
+
+31/51/2017 - 08:51:42 -> [D]: Account has been loaded!
+
+31/51/2017 - 08:51:50 -> [I]: UI data has been updated at 3/31/2017 8:51:50 PM
+
+04/34/2016 - 11:34:02 -> [I]: Updated seller product Netflix
+
+Test\test_seller_shop.sdf
+
+04/17/2016 - 04:17:44 -> [I]: Loaded seller shop test_seller
+
+04/17/2016 - 04:17:44 -> [D]: Account has been loaded!
+
+04/17/2016 - 04:17:44 -> [D]: Reading account file C:\Users\Elio\Dropbox\EasyPMS\EasyPMS\bin\Debug\1323432752.epms
+
+04/17/2016 - 04:17:44 -> [I]: Connected to data source C:\Users\Elio\Documents\Visual Studio 2010\Projects\EasyPMS\EasyPMS\bin\Debug\Elio\Coding Service_shop.sdf
+
+04/17/2016 - 04:17:44 -> [I]: Connected to data source C:\Users\Elio\Documents\Visual Studio 2010\Projects\EasyPMS\EasyPMS\bin\Debug\Elio\Coding Service_shop.sdf
+
+04/17/2016 - 04:17:44 -> [I]: Loaded name: Coding Service
+
+04/17/2016 - 04:17:44 -> [I]: Loaded type: Seller
+
+04/17/2016 - 04:17:44 -> [I]: Connected to data source C:\Users\Elio\Documents\Visual Studio 2010\Projects\EasyPMS\EasyPMS\bin\Debug\Elio\Coding Service_shop.sdf
+
+04/17/2016 - 04:17:44 -> [I]: History has been loaded.
+
+04/17/2016 - 04:17:44 -> [I]: Connected to data source C:\Users\Elio\Documents\Visual Studio 2010\Projects\EasyPMS\EasyPMS\bin\Debug\Elio\Coding Service_shop.sdf
+
+04/17/2016 - 04:17:44 -> [I]: Loading seller product Bomber
+
+04/17/2016 - 04:17:44 -> [I]: Connected to data source C:\Users\Elio\Documents\Visual Studio 2010\Projects\EasyPMS\EasyPMS\bin\Debug\Elio\Coding Service_shop.sdf
+
+04/17/2016 - 04:17:45 -> [I]: Loaded seller shop Coding Service
+
+04/17/2016 - 04:17:45 -> [D]: Account has been loaded!
+
+04/17/2016 - 04:17:47 -> [I]: UI data has been updated at 8/4/2016 4:17:47 PM
+

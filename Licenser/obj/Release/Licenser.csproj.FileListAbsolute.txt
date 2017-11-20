@@ -1,0 +1,6 @@
+D:\EasyPMS\Licenser\bin\Release\Licenser.exe.config
+D:\EasyPMS\Licenser\bin\Release\Licenser.exe
+D:\EasyPMS\Licenser\bin\Release\Licenser.pdb
+D:\EasyPMS\Licenser\obj\Release\Licenser.csprojResolveAssemblyReference.cache
+D:\EasyPMS\Licenser\obj\Release\Licenser.exe
+D:\EasyPMS\Licenser\obj\Release\Licenser.pdb

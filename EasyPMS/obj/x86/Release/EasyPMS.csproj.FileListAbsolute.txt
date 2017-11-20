@@ -1,0 +1,102 @@
+C:\Users\Elio\documents\visual studio 2010\Projects\EasyPMS\EasyPMS\bin\Release\shop_template.sdf
+C:\Users\Elio\documents\visual studio 2010\Projects\EasyPMS\EasyPMS\bin\Release\EasyPMS.exe
+C:\Users\Elio\documents\visual studio 2010\Projects\EasyPMS\EasyPMS\bin\Release\EasyPMS.pdb
+C:\Users\Elio\documents\visual studio 2010\Projects\EasyPMS\EasyPMS\bin\Release\Vibe Theme.dll
+C:\Users\Elio\documents\visual studio 2010\Projects\EasyPMS\EasyPMS\bin\Release\Vibe Theme.pdb
+C:\Users\Elio\documents\visual studio 2010\Projects\EasyPMS\EasyPMS\bin\Release\Vibe Theme.xml
+C:\Users\Elio\documents\visual studio 2010\Projects\EasyPMS\EasyPMS\obj\x86\Release\EasyPMS.AccountToolbox.resources
+C:\Users\Elio\documents\visual studio 2010\Projects\EasyPMS\EasyPMS\obj\x86\Release\EasyPMS.CreateShop.resources
+C:\Users\Elio\documents\visual studio 2010\Projects\EasyPMS\EasyPMS\obj\x86\Release\EasyPMS.Form1.resources
+C:\Users\Elio\documents\visual studio 2010\Projects\EasyPMS\EasyPMS\obj\x86\Release\EasyPMS.Properties.Resources.resources
+C:\Users\Elio\documents\visual studio 2010\Projects\EasyPMS\EasyPMS\obj\x86\Release\EasyPMS.csproj.GenerateResource.Cache
+C:\Users\Elio\documents\visual studio 2010\Projects\EasyPMS\EasyPMS\obj\x86\Release\EasyPMS.exe
+C:\Users\Elio\documents\visual studio 2010\Projects\EasyPMS\EasyPMS\obj\x86\Release\EasyPMS.pdb
+C:\Users\Elio\documents\visual studio 2010\Projects\EasyPMS\EasyPMS\bin\Release\EasyPMS.exe.config
+C:\Users\Elio\documents\visual studio 2010\Projects\EasyPMS\EasyPMS\bin\Release\ObjectListView.dll
+C:\Users\Elio\documents\visual studio 2010\Projects\EasyPMS\EasyPMS\bin\Release\ObjectListView.pdb
+C:\Users\Elio\documents\visual studio 2010\Projects\EasyPMS\EasyPMS\obj\x86\Release\EasyPMS.csprojResolveAssemblyReference.cache
+C:\Users\Elio\documents\visual studio 2010\Projects\EasyPMS\EasyPMS\obj\x86\Release\EasyPMS.AddSellerProd.resources
+C:\Users\Elio\documents\visual studio 2010\Projects\EasyPMS\EasyPMS\obj\x86\Release\EasyPMS.AddSEProd.resources
+C:\Users\Elio\documents\visual studio 2010\Projects\EasyPMS\EasyPMS\obj\x86\Release\EasyPMS.MarkSelled.resources
+C:\Users\Elio\documents\visual studio 2010\Projects\EasyPMS\EasyPMS\obj\x86\Release\EasyPMS.ShopManager.resources
+C:\Users\Elio\documents\visual studio 2010\Projects\EasyPMS\EasyPMS\obj\x86\Release\EasyPMS.AddQueueItem.resources
+C:\Users\Elio\documents\visual studio 2010\Projects\EasyPMS\EasyPMS\obj\x86\Release\EasyPMS.AddStockFiles.resources
+C:\Users\Elio\documents\visual studio 2010\Projects\EasyPMS\EasyPMS\obj\x86\Release\EasyPMS.SearchHistory.resources
+C:\Users\Elio\documents\visual studio 2010\Projects\EasyPMS\EasyPMS\obj\x86\Release\EasyPMS.SearchItems.resources
+C:\Users\Elio\documents\visual studio 2010\Projects\EasyPMS\EasyPMS\obj\x86\Release\EasyPMS.SingleItemStock.resources
+C:\Users\Elio\Dropbox\EasyPMS\EasyPMS\bin\Release\EasyPMS.exe.config
+C:\Users\Elio\Dropbox\EasyPMS\EasyPMS\obj\x86\Release\EasyPMS.exe
+C:\Users\Elio\Dropbox\EasyPMS\EasyPMS\obj\x86\Release\EasyPMS.pdb
+C:\Users\Elio\Dropbox\EasyPMS\EasyPMS\bin\Release\shop_template.sdf
+C:\Users\Elio\Dropbox\EasyPMS\EasyPMS\bin\Release\EasyPMS.exe
+C:\Users\Elio\Dropbox\EasyPMS\EasyPMS\bin\Release\EasyPMS.pdb
+C:\Users\Elio\Dropbox\EasyPMS\EasyPMS\bin\Release\ObjectListView.pdb
+C:\Users\Elio\Dropbox\EasyPMS\EasyPMS\bin\Release\Vibe Theme.pdb
+C:\Users\Elio\Dropbox\EasyPMS\EasyPMS\bin\Release\Vibe Theme.xml
+C:\Users\Elio\Dropbox\EasyPMS\EasyPMS\obj\x86\Release\EasyPMS.csprojResolveAssemblyReference.cache
+C:\Users\Elio\Dropbox\EasyPMS\EasyPMS\obj\x86\Release\EasyPMS.AccountToolbox.resources
+C:\Users\Elio\Dropbox\EasyPMS\EasyPMS\obj\x86\Release\EasyPMS.AddQueueItem.resources
+C:\Users\Elio\Dropbox\EasyPMS\EasyPMS\obj\x86\Release\EasyPMS.AddSellerProd.resources
+C:\Users\Elio\Dropbox\EasyPMS\EasyPMS\obj\x86\Release\EasyPMS.AddSEProd.resources
+C:\Users\Elio\Dropbox\EasyPMS\EasyPMS\obj\x86\Release\EasyPMS.AddStockFiles.resources
+C:\Users\Elio\Dropbox\EasyPMS\EasyPMS\obj\x86\Release\EasyPMS.CreateShop.resources
+C:\Users\Elio\Dropbox\EasyPMS\EasyPMS\obj\x86\Release\EasyPMS.Form1.resources
+C:\Users\Elio\Dropbox\EasyPMS\EasyPMS\obj\x86\Release\EasyPMS.MarkSelled.resources
+C:\Users\Elio\Dropbox\EasyPMS\EasyPMS\obj\x86\Release\EasyPMS.Properties.Resources.resources
+C:\Users\Elio\Dropbox\EasyPMS\EasyPMS\obj\x86\Release\EasyPMS.SearchHistory.resources
+C:\Users\Elio\Dropbox\EasyPMS\EasyPMS\obj\x86\Release\EasyPMS.SearchItems.resources
+C:\Users\Elio\Dropbox\EasyPMS\EasyPMS\obj\x86\Release\EasyPMS.ShopManager.resources
+C:\Users\Elio\Dropbox\EasyPMS\EasyPMS\obj\x86\Release\EasyPMS.SingleItemStock.resources
+C:\Users\Elio\Dropbox\EasyPMS\EasyPMS\obj\x86\Release\EasyPMS.csproj.GenerateResource.Cache
+C:\Users\elio_\Dropbox\EasyPMS\EasyPMS\bin\Release\EasyPMS.exe.config
+C:\Users\elio_\Dropbox\EasyPMS\EasyPMS\obj\x86\Release\EasyPMS.exe
+C:\Users\elio_\Dropbox\EasyPMS\EasyPMS\obj\x86\Release\EasyPMS.pdb
+C:\Users\elio_\Dropbox\EasyPMS\EasyPMS\bin\Release\shop_template.sdf
+C:\Users\elio_\Dropbox\EasyPMS\EasyPMS\bin\Release\EasyPMS.exe
+C:\Users\elio_\Dropbox\EasyPMS\EasyPMS\bin\Release\EasyPMS.pdb
+C:\Users\elio_\Dropbox\EasyPMS\EasyPMS\bin\Release\ObjectListView.pdb
+C:\Users\elio_\Dropbox\EasyPMS\EasyPMS\bin\Release\Vibe Theme.pdb
+C:\Users\elio_\Dropbox\EasyPMS\EasyPMS\bin\Release\Vibe Theme.xml
+C:\Users\elio_\Dropbox\EasyPMS\EasyPMS\obj\x86\Release\EasyPMS.csprojResolveAssemblyReference.cache
+C:\Users\elio_\Dropbox\EasyPMS\EasyPMS\obj\x86\Release\EasyPMS.AccountToolbox.resources
+C:\Users\elio_\Dropbox\EasyPMS\EasyPMS\obj\x86\Release\EasyPMS.AddQueueItem.resources
+C:\Users\elio_\Dropbox\EasyPMS\EasyPMS\obj\x86\Release\EasyPMS.AddSellerProd.resources
+C:\Users\elio_\Dropbox\EasyPMS\EasyPMS\obj\x86\Release\EasyPMS.AddSEProd.resources
+C:\Users\elio_\Dropbox\EasyPMS\EasyPMS\obj\x86\Release\EasyPMS.AddStockFiles.resources
+C:\Users\elio_\Dropbox\EasyPMS\EasyPMS\obj\x86\Release\EasyPMS.CreateShop.resources
+C:\Users\elio_\Dropbox\EasyPMS\EasyPMS\obj\x86\Release\EasyPMS.Form1.resources
+C:\Users\elio_\Dropbox\EasyPMS\EasyPMS\obj\x86\Release\EasyPMS.MarkSelled.resources
+C:\Users\elio_\Dropbox\EasyPMS\EasyPMS\obj\x86\Release\EasyPMS.Properties.Resources.resources
+C:\Users\elio_\Dropbox\EasyPMS\EasyPMS\obj\x86\Release\EasyPMS.SearchHistory.resources
+C:\Users\elio_\Dropbox\EasyPMS\EasyPMS\obj\x86\Release\EasyPMS.SearchItems.resources
+C:\Users\elio_\Dropbox\EasyPMS\EasyPMS\obj\x86\Release\EasyPMS.ShopManager.resources
+C:\Users\elio_\Dropbox\EasyPMS\EasyPMS\obj\x86\Release\EasyPMS.SingleItemStock.resources
+C:\Users\elio_\Dropbox\EasyPMS\EasyPMS\obj\x86\Release\EasyPMS.csproj.GenerateResource.Cache
+D:\EasyPMS\EasyPMS\bin\Release\EasyPMS.exe.config
+D:\EasyPMS\EasyPMS\obj\x86\Release\EasyPMS.exe
+D:\EasyPMS\EasyPMS\obj\x86\Release\EasyPMS.pdb
+D:\EasyPMS\EasyPMS\bin\Release\shop_template.sdf
+D:\EasyPMS\EasyPMS\bin\Release\EasyPMS.exe
+D:\EasyPMS\EasyPMS\bin\Release\EasyPMS.pdb
+D:\EasyPMS\EasyPMS\bin\Release\ObjectListView.pdb
+D:\EasyPMS\EasyPMS\bin\Release\Vibe Theme.pdb
+D:\EasyPMS\EasyPMS\bin\Release\Vibe Theme.xml
+D:\EasyPMS\EasyPMS\obj\x86\Release\EasyPMS.csprojResolveAssemblyReference.cache
+D:\EasyPMS\EasyPMS\obj\x86\Release\EasyPMS.AccountToolbox.resources
+D:\EasyPMS\EasyPMS\obj\x86\Release\EasyPMS.AddQueueItem.resources
+D:\EasyPMS\EasyPMS\obj\x86\Release\EasyPMS.AddSellerProd.resources
+D:\EasyPMS\EasyPMS\obj\x86\Release\EasyPMS.AddSEProd.resources
+D:\EasyPMS\EasyPMS\obj\x86\Release\EasyPMS.AddStockFiles.resources
+D:\EasyPMS\EasyPMS\obj\x86\Release\EasyPMS.CreateShop.resources
+D:\EasyPMS\EasyPMS\obj\x86\Release\EasyPMS.Form1.resources
+D:\EasyPMS\EasyPMS\obj\x86\Release\EasyPMS.MarkSelled.resources
+D:\EasyPMS\EasyPMS\obj\x86\Release\EasyPMS.Properties.Resources.resources
+D:\EasyPMS\EasyPMS\obj\x86\Release\EasyPMS.SearchHistory.resources
+D:\EasyPMS\EasyPMS\obj\x86\Release\EasyPMS.SearchItems.resources
+D:\EasyPMS\EasyPMS\obj\x86\Release\EasyPMS.SearchQueue.resources
+D:\EasyPMS\EasyPMS\obj\x86\Release\EasyPMS.ShopManager.resources
+D:\EasyPMS\EasyPMS\obj\x86\Release\EasyPMS.SingleItemStock.resources
+D:\EasyPMS\EasyPMS\obj\x86\Release\EasyPMS.csproj.GenerateResource.Cache
+D:\EasyPMS\EasyPMS\obj\x86\Release\EasyPMS.CompleteQueue.resources
+D:\EasyPMS\EasyPMS\bin\Release\ObjectListView.dll
+D:\EasyPMS\EasyPMS\bin\Release\Vibe Theme.dll
